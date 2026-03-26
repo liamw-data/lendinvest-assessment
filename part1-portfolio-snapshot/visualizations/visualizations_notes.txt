@@ -1,0 +1,8 @@
+Risk Per Product Type
+Development loans show highest exposure and largest proportion of arrears, indicating concentration risk.
+
+Risk Per Region
+London region shows highest arrears rate, suggesting geographic risk concentration.
+
+LTV Band by Status
+Medium LTV band shows higher defaults than high LTV, indicating risk not purely driven by LTV level.

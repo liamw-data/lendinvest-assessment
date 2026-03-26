@@ -1,0 +1,16 @@
+loan_id,borrower_segment,broker_name,product_type,region,origination_date,original_balance,current_balance,interest_rate,status,arrears_days,property_value,ltv_at_origination
+1,Individual,Acme Brokers,BTL,London,45306,300000,295000,5.1,Current,0,400000,75
+2,LtdCo,Acme Brokers,BTL,South East,45233,250000,240000,5.4,InArrears,45,350000,71.4
+3,Individual,Prime Introducers,Bridging,London,45463,500000,505000,7.5,Current,0,650000,76.9
+4,LLP,Prime Introducers,Development,North West,45179,800000,810000,8.25,Defaulted,120,1000000,80
+5,LtdCo,Direct,BTL,Midlands,45323,200000,198000,5,Current,0,350000,57.1
+6,Individual,Smith Finance,BTL,South East,45137,180000,160000,5.8,Defaulted,180,280000,64.3
+7,LtdCo,Smith Finance,Bridging,London,45363,400000,395000,7.1,Current,0,550000,72.7
+8,Individual,Metro Brokers,BTL,North West,44900,150000,120000,5.6,InArrears,30,250000,60
+9,LLP,Metro Brokers,Development,Midlands,45034,900000,880000,8.5,Current,0,1200000,75
+10,LtdCo,Direct,Development,South East,45421,600000,595000,8.1,Current,0,850000,70.6
+11,Individual,Acme Brokers,Bridging,Scotland,45160,350000,340000,7.8,InArrears,60,475000,73.7
+12,Individual,Prime Introducers,BTL,Scotland,45320,220000,218000,5.3,Current,0,310000,71
+13,LtdCo,Metro Brokers,BTL,Wales,44988,275000,260000,5.7,Current,0,450000,61.1
+14,LLP,Smith Finance,Development,London,44876,1100000,1000000,8.9,Defaulted,150,1500000,73.3
+15,Individual,Direct,Bridging,South East,45216,320000,315000,7.2,Current,0,425000,75.3
