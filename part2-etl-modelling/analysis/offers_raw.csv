@@ -1,0 +1,5 @@
+﻿offer_id,app_id,offer_ts,offer_amount,product_name,rate_pct,term_months,status
+O1,A1,10/01/2024 14:00,295000,"BTL – Semi, London",5.1,300,Live
+O2,A2,12/01/2024 09:30,395000,"Standard Bridge, South East",7.1,12,Live
+O3,A3,15/01/2024 16:20,810000,"Development – GD, North West",8.25,24,Lapsed
+O4,A5,16/01/2024 11:05,880000,"Development – GD, Midlands",8.5,24,Live

@@ -1,0 +1,6 @@
+﻿app_id,submitted_ts,product,region,broker,borrower_type,property_value,requested_amount,ltv_pct_text,stage
+A1,05/01/2024 10:15,BTL_SEMI,LON,Acme Brokers,INDIV,500000,300000,60%,Application Received
+A2,06/01/2024 09:02,BRIDGE_STD,SE,Smith Finance,LTD,650000,400000,61-65%,Application Received
+A3,06/01/2024 11:47,DEV_GD_NW,NW,Metro Brokers,LLP,1200000,800000,~67%,Application Received
+A4,07/01/2024 15:33,BTL_SEMI,SE,Direct,INDIV,350000,200000,57%,Application Received
+A5,08/01/2024 08:21,DEV_GD_MIDS,MIDS,Prime Introducers,LTD,1500000,900000,60%,Application Received
